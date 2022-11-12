@@ -20,13 +20,13 @@ If you have any questions, please let me know by <qinsiwang20@fudan.edu.cn>. I w
 
 ----------------------------------
 
-- CompressedModes/demo_CMS: compares 4 algorithms ManPG, ManPG-Ada, NLS-ManPGC and ManPQN for solving compressed modes problem with orthogonal constraint;
+- CM/demo_CMS: compares 4 algorithms ManPG, ManPG-Ada, NLS-ManPGC and ManPQN for solving compressed modes problem with orthogonal constraint;
 
-- SparsePCA/demo_compare_SPCA: compares 4 algorithms for solving sparse PCA problem with orthogonal constraint and randomly generated coefficient matrix;
+- SPCA/demo_compare_SPCA: compares 4 algorithms for solving sparse PCA problem with orthogonal constraint and randomly generated coefficient matrix;
 
-- SparsePCA/demo_compare_SPCA_UF_matrices: compares 4 algorithms for solving sparse PCA problem with orthogonal constraint and coefficient matrix chosen from "UF Sparse Matrix Collection";
+- SPCA/demo_compare_SPCA_UF_matrices: compares 4 algorithms for solving sparse PCA problem with orthogonal constraint and coefficient matrix chosen from "UF Sparse Matrix Collection";
 
-- UnsupervisedFeatureSelection/demo_UFS: compares 4 algorithms for solving unsupervised feature selection problem with orthogonal constraint;
+- UFS/demo_UFS: compares 4 algorithms for solving unsupervised feature selection problem with orthogonal constraint;
 
 - JointDiagonalization/demo_JD: compares 4 algorithms for solving joint diagonalization problem with orthogonal constraint;
 
