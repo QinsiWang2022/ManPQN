@@ -7,7 +7,7 @@ function [X_nls, F_nls,F,sparsity,time_nls,iter,flag_succ,num_linesearch,mean_ss
 %   option.r, option.n, option.mu
 %   option.inner_iter: maximal iteration number for SSN methods in the
 %   inner loop
-%   M£ºparameter for nonmonotone line search
+%   MÂ£Âºparameter for nonmonotone line search
 %   bb_mod: the way computing BB stepsize strategy
 %   retrac_mod: the way of choosing retraction
 %%
